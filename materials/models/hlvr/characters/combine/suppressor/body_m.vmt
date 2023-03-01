@@ -1,0 +1,17 @@
+"VertexlitGeneric"
+{
+//Base
+	"$basetexture" 					"models\hlvr\characters\combine\suppressor\body_d"
+	"$bumpmap" 						"models\hlvr\characters\combine\suppressor\body_n"
+	"$phongexponenttexture" 		"models\hlvr\characters\combine\suppressor\body_e"
+
+	"$phongalbedotint"				"1"
+
+//Phong
+	"$phong" 						"1"
+	"$phongboost"					"10"
+	"$phongfresnelranges"			"[0.87 0.9 1]"
+
+	"$ambientocclusion"				"0.7"
+	"$nocull" 			"1"
+}

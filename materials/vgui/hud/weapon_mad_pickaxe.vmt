@@ -1,0 +1,5 @@
+"UnlitGeneric"
+{
+	"$basetexture" "vgui/hud/weapon_mad_pickaxe"
+	"$translucent" 1
+}
